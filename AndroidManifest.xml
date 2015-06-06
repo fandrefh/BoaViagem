@@ -27,6 +27,7 @@
             android:label="@string/title_activity_dash_board" >
         </activity>
         <activity android:name=".GastoActivity"></activity>
+        <activity android:name=".ViagemActivity"></activity>
     </application>
 
 </manifest>
